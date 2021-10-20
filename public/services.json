@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Medicine",
+        "price": "300",
+        "description": "This is medicine service. Through this service you can buy medicine",
+        "img": "https://image.shutterstock.com/image-vector/various-meds-pills-capsules-blisters-260nw-1409823341.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Medical Equipment",
+        "price": "1000",
+        "description": "This is equipment service. Through this service you can buy any medical equipment",
+        "img": "https://image.shutterstock.com/image-photo/medical-equipment-background-260nw-386903308.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Health Care",
+        "price": "2000",
+        "description": "This is health care service. You can discuss any health issue with us",
+        "img": "https://image.shutterstock.com/image-photo/hand-arranging-wood-block-healthcare-260nw-1561815367.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Doctor's Appointment",
+        "price": "200",
+        "description": "This is Doctor appointment care service. You can booked  any doctor appointment  here",
+        "img": "https://c8.alamy.com/comp/TX5A9N/doctor-appointment-plan-conceptstethoscope-notebook-notes-schedule-TX5A9N.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Diabetes Care",
+        "price": "500",
+        "description": "This is diabetes  care service. You can useful of it",
+        "img": "https://image.shutterstock.com/image-photo/doctor-checking-blood-sugar-level-260nw-1439349791.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Women and baby Care",
+        "price": "600",
+        "description": "This is Women and baby  care service. You can useful of it",
+        "img": "https://salwaty.com/wp-content/uploads/2020/07/Salwaty-Services-Mother-Baby-care.jpg"
+    }
+]
