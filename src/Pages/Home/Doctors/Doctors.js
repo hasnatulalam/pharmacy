@@ -3,7 +3,7 @@ import Doctor from '../Doctor/Doctor';
 
 const doctors = [
     {
-        img: 'https://i.ibb.co/fNVsPRB/doctor1.jpg',
+        img: 'https://i.ibb.co/f16CPJr/doctor14jpg.jpg',
         name: 'Khorsed Alam',
         specialist: 'Medicin'
     },

@@ -5,6 +5,7 @@ import './Features.css'
 const Features = () => {
     return (
         <div className=" mb-5 mt-5">
+     
             <h1 className="text-success">Our Features</h1>
             <h3 class="text-warning">Why Choose Us?</h3>
 
@@ -13,16 +14,16 @@ const Features = () => {
                     <Col className="card ms-3 me-3 px-3 py-3">
                         <i class="fas fa-stethoscope"></i>
                         <br />
-                        <h6 className="mx-5">Internal Medicine</h6>
+                        <h6>Internal Medicine</h6>
                         <br />
-                        <p className="mx-3">Proin nec lacus lacus. Sed vitae consectetur est, et mattis felis. Fusce lacinia nibh vitae fermentum finibus.</p>
+                        <p className="mx-3">Proin nec lacus lacus. Sed vitae consectetur est, et mattis felis. Fusce lacinia nibh vitae fermentum finibus.</p> 
                     </Col>
                     <Col className="card ms-3 me-3 px-3 py-3">
                         <i class="fas fa-lungs-virus"></i>
                         <br />
                         <h6>Respiratory</h6>
                         <br />
-                        <p>Proin nec lacus lacus. Sed vitae consectetur est, et mattis felis. Fusce lacinia nibh vitae fermentum finibus.</p>
+                         <p>Proin nec lacus lacus. Sed vitae consectetur est, et mattis felis. Fusce lacinia nibh vitae fermentum finibus. </p> 
                     </Col>
                     <Col className="card ms-3 me-3 px-3 py-3">
                         <i class="fas fa-head-side-virus"></i>
@@ -31,7 +32,7 @@ const Features = () => {
                             Neurology
                     </h6>
                         <br />
-                        <p>Proin nec lacus lacus. Sed vitae consectetur est, et mattis felis. Fusce lacinia nibh vitae fermentum finibus.</p>
+                        <p>Proin nec lacus lacus. Sed vitae consectetur est, et mattis felis. Fusce lacinia nibh vitae fermentum finibus.</p> 
                     </Col>
                 </Row>
                 <br />
@@ -41,14 +42,14 @@ const Features = () => {
                         <br />
                         <h6>Genetics Service</h6>
                         <br />
-                        <p>Proin nec lacus lacus. Sed vitae consectetur est, et mattis felis. Fusce lacinia nibh vitae fermentum finibus.</p>
+                         <p>Proin nec lacus lacus. Sed vitae consectetur est, et mattis felis. Fusce lacinia nibh vitae fermentum finibus.</p> 
                         <br />
                     </Col>
                     <Col className="card ms-3 me-3 px-3 py-3">
                         <i class="fas fa-microscope"></i>
                         <br />
                         <h6>Oncology Care</h6><br />
-                        <p>Proin nec lacus lacus. Sed vitae consectetur est, et mattis felis. Fusce lacinia nibh vitae fermentum finibus.</p>
+                        <p>Proin nec lacus lacus. Sed vitae consectetur est, et mattis felis. Fusce lacinia nibh vitae fermentum finibus.</p> 
                     </Col>
                     <Col className="card ms-3 me-3 px-3 py-3">
                         <i class="fas fa-tooth"></i>
@@ -57,7 +58,7 @@ const Features = () => {
                             Dental Care
                     </h6>
                         <br />
-                        <p>Proin nec lacus lacus. Sed vitae consectetur est, et mattis felis. Fusce lacinia nibh vitae fermentum finibus.</p>
+                         <p>Proin nec lacus lacus. Sed vitae consectetur est, et mattis felis. Fusce lacinia nibh vitae fermentum finibus.</p> 
                     </Col>
                 </Row>
             </div>

@@ -10,7 +10,7 @@ const Doctor = ({ doctor }) => {
             <img className="h-100 w-100" src={img} alt="" />
             <h5>Name: {name}</h5>
             <h5 className="text-warning">Specialist: {specialist}</h5>
-            <Button variant="dark">Details</Button>
+            <Button variant="primary">Details</Button>
             <br />
             <br />
 
