@@ -3,20 +3,20 @@ import Doctor from '../Doctor/Doctor';
 
 const doctors = [
     {
-        img: 'https://image.shutterstock.com/image-photo/doctor-wearing-medical-mask-gloves-260nw-1675175770.jpg',
-        name: 'Abdul Hosain',
-        specialist: 'Heart'
+        img: 'https://i.ibb.co/fNVsPRB/doctor1.jpg',
+        name: 'Khorsed Alam',
+        specialist: 'Medicin'
     },
     {
-        img: 'https://doctoryouneed.org/wp-content/uploads/2020/01/Dr.-Md.-Noor-Uddin-Tareq.jpg',
-        name: 'Nur Uddin Tarek',
+        img: 'https://i.ibb.co/XWtVVPM/doctor11.jpg',
+        name: 'Sakib Mahmud',
         specialist: 'Diabetes',
 
     },
     {
-        img: 'https://st.depositphotos.com/1771835/1477/i/950/depositphotos_14779771-stock-photo-portrait-of-confident-young-doctor.jpg',
-        name: 'Rashed Mirzada',
-        specialist: 'Medicine'
+        img: 'https://i.ibb.co/VBZhWCy/doctor2.jpg',
+        name: 'Rahnuma Akter',
+        specialist: 'Child'
     }
 ]
 

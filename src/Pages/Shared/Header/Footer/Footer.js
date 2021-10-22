@@ -3,11 +3,11 @@ import { Button, Col, Row } from 'react-bootstrap';
 
 const Footer = () => {
     return (
-        <div className="bg-dark text-success">
+        <div className="bg-primary text-white">
             <Row >
                 <Col>
                     <h5>Company Name</h5>
-                    <h5 className="text-danger mt-5">GO Home Pharmacy</h5>
+                    <h5 className="text-danger mt-5">Online Pharmacy</h5>
                 </Col>
                 <Col>
                     <h5>Quicks Links</h5>
@@ -27,7 +27,7 @@ const Footer = () => {
                 </Col>
                 <Col>
                     <h5>Contact US</h5>
-                    <h5>Phone: 0128937289</h5>
+                    <h5>Phone: 01846455056</h5>
                     <h6>info@gmail.com</h6>
                 </Col>
             </Row>
